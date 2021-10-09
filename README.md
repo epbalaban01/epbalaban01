@@ -2,7 +2,7 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"><img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width:68%;"></a></p>
 
 <ul>
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Şu anda Afyonkocatepe Üniversitesi'nde öğrenciyim.</li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Şu anda Afyonkocatepe Üniversitesi'nde mezunum.</li>
  
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Şu anda C#, VB.Net kullanarak program ve komut geliştirme öğreniyorum.</li>
 
@@ -21,6 +21,7 @@
   <a href="https://www.instagram.com/epbalaban01/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width:100%;">       
   </a>&nbsp;&nbsp;
+![](https://komarev.com/ghpvc/?username=epbalaban01&color=green)
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
