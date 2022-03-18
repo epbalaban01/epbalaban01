@@ -45,10 +45,10 @@
 ```csharp
 anordinaryusername@github
 -------------------------
-OS: Arch Linux x86_64
+OS: Windows 10 Pro
 Shell: zsh 5.8
 Pronouns: He/Him
-Location: Artesia, CA
+Location: İstanbul, Turkey
 Frameworks: React
 Languages: JavaScript, TypeScript,
            HTML, CSS
