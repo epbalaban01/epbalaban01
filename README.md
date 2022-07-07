@@ -44,16 +44,6 @@
 
 
  
- ![github-user-contribution](https://user-images.githubusercontent.com/42430554/177722352-789aaf9b-b727-4522-9e48-db1ecffc5516.svg)
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ipkp9kl1547rm2xujx95zdsxo&unique={true|1|on|yes})  
-
- [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ipkp9kl1547rm2xujx95zdsxo)
 
 
- 
- [![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)](github-snake.svg#gh-light-mode-only)
-
- 
- 
- 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ipkp9kl1547rm2xujx95zdsxo&unique={true|1|on|yes})[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ipkp9kl1547rm2xujx95zdsxo)
