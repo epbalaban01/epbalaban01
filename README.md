@@ -41,9 +41,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=epbalaban01&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
-
-
- 
-
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ipkp9kl1547rm2xujx95zdsxo&unique={true|1|on|yes})[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ipkp9kl1547rm2xujx95zdsxo)
