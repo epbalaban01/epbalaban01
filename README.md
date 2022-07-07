@@ -45,72 +45,12 @@
  
  ![github-user-contribution](https://user-images.githubusercontent.com/42430554/177722352-789aaf9b-b727-4522-9e48-db1ecffc5516.svg)
 
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ipkp9kl1547rm2xujx95zdsxo)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ipkp9kl1547rm2xujx95zdsxo&unique={true|1|on|yes})
  
 [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ipkp9kl1547rm2xujx95zdsxo)
  
- ![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)
+ [![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)](github-snake.svg#gh-light-mode-only)
 
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ipkp9kl1547rm2xujx95zdsxo&unique={true|1|on|yes})
  
  
- ---
-
-## 👱🏼 En İyi ve Harika Projelerimden Bazıları 🚀--
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projeler</b></td>
-        <td><b>🌟 Yıldızlar</b></td>
-        <td><b>🍴 Çatal</b></td>
-        <td><b>🐛 Konular</b></td>
-        <td><b>🔔 Çekmek</b></td>
-        <td><b>👨‍💻 Dil</b></td>
-      </tr>
-    </thead>
-    <tbody>
-      <tr> 
-	      <td><a href="https://github.com/epbalaban01/pizza-otomasyonu"><b>🚀 Pizza Otomasyonu</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/epbalaban01/pizza-otomasyonu?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/epbalaban01/pizza-otomasyonu?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/epbalaban01/pizza-otomasyonu?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/epbalaban01/pizza-otomasyonu?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/Vb.Net-100.0%25-blue?style=flat-square"/></td>
-      </tr>
-      <td><a href="https://github.com/CodingAce123/Npx-Card"><b>🔑 Random Password Generator</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Random-Password-Generator-App?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Random-Password-Generator-App?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Random-Password-Generator-App?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Random-Password-Generator-App?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Random-Password-Generator-App?label=CSS&style=flat-square"/></td>
-      <tr>
-	      <td><a href="https://github.com/CodingAce123/Npx-Card"><b>💸 Npx- Business Card</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Npx-Card?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Npx-Card?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Npx-Card?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Npx-Card?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Npx-Card?label=Javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/CodingAce123/Project-38"><b>👨🏻‍💻 Bob The Robber Game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Project-38?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Project-38?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Project-38?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Project-38?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Project-38?style=flat-square&label=Javascript"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/CodingAce123/Project-28"><b>😋 Plucking Mangoes Game</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/CodingAce123/Project-28?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/CodingAce123/Project-28?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/CodingAce123/Project-28?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/CodingAce123/Project-28?style=flat-square&label=Pull%20Requests"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/CodingAce123/Project-28?style=flat-square&label=Javascript"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-
----
+ 
