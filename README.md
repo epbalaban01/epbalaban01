@@ -33,14 +33,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=epbalaban01&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
- 
-
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/epbalaban01/epbalaban01/main/snake.svg" alt="Snake animation" />
-
-
-###
 
