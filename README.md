@@ -35,5 +35,11 @@
 </p>
  
 
+###
 
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/epbalaban01/epbalaban01/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
