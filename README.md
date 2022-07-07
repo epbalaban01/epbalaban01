@@ -11,6 +11,14 @@
  
  <li><g-emoji class="g-emoji" alias=":globe_with_meridians:" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">
   :globe_with_meridians:</g-emoji> Web Site: <a href="http://www.formula1turkey.epizy.com">http://www.formula1turkey.epizy.com</a></li>
+ <h3 align='left'>
+  💻 Sistem Özellikleri<br/><br/>
+
+  [![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
+  [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%207th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
+  [![24GB RAM](https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
+  [![64 Bit Sistem](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)
+</h3>
  <br>
  <br>
  
@@ -34,19 +42,14 @@
 </a>
 </p>
 
-<h3 align='left'>
-  💻 Çalışma Alanım, Benim Bilgisayarım!!!:-<br/><br/>
 
-  [![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
-  [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%207th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
-  [![24GB RAM](https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
-  [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)
-</h3>
  
  ![github-user-contribution](https://user-images.githubusercontent.com/42430554/177722352-789aaf9b-b727-4522-9e48-db1ecffc5516.svg)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ipkp9kl1547rm2xujx95zdsxo&unique={true|1|on|yes})  
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ipkp9kl1547rm2xujx95zdsxo)
+
+ [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ipkp9kl1547rm2xujx95zdsxo)
+
 
  
  [![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)](github-snake.svg#gh-light-mode-only)
