@@ -39,8 +39,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/main/public/assets/snake.svg" alt="Snake animation" />
-
+<img href="https://raw.githubusercontent.com/epbalaban01/epbalaban01/main/snake.svg" alt="Snake animation" />
 
 
 ###
