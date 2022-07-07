@@ -34,3 +34,11 @@
 </a>
 </p>
 
+<h3 align='left'>
+  💻 Çalışma Alanım, Benim Bilgisayarım!!!:-<br/><br/>
+
+  [![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/CodingAce123)
+  [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%207th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/CodingAce123)
+  [![24GB RAM](https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=flat-square&logoColor=white)](https://github.com/CodingAce123)
+  [![64 Bit System](https://img.shields.io/badge/System%20Type-64%20Bit-%230071C5.svg?&style=flat-square)](https://github.com/CodingAce123)
+</h3>
