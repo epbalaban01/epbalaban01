@@ -47,7 +47,7 @@
 
  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ipkp9kl1547rm2xujx95zdsxo)
  
- [![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)(https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ipkp9kl1547rm2xujx95zdsxo)
  
  ![Snake Gif](https://github.com/CodingAce123/CodingAce123/blob/output/github-contribution-grid-snake.gif)
 
