@@ -2,9 +2,9 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"><img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width:68%;"></a></p>
 
 <ul>
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Şu anda Afyonkocatepe Üniversitesi'nden mezunum.</li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Afyon Kocatepe Üniversitesi'nden mezunum.</li>
  
-<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> Şu anda C#, VB.Net, Javascript dilleriyle yeni projeler geliştiriyorum.</li>
+<li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C#, VB.Net, Asp.Net, HTML, Javascript dilleriyle yeni projeler geliştiriyorum.</li>
 
  <li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> 
  Mail: <a href="mailto:epbalaban01@gmail.com">epbalaban01@gmail.com</a></li>
