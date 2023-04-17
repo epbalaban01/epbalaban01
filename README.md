@@ -7,7 +7,7 @@
 <li><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">📚</g-emoji> C#, VB.Net, Asp.Net, HTML, Javascript dilleriyle yeni projeler geliştiriyorum.</li>
 
  <li><g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> 
- Mail: <a href="mailto:epbalaban01@gmail.com">epbalaban01@gmail.com</a></li>
+ Mail: <a href="mailto:epbalaban07@gmail.com">epbalaban07@gmail.com</a></li>
  
  <li><g-emoji class="g-emoji" alias=":globe_with_meridians:" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">
   :globe_with_meridians:</g-emoji> Web Site: <a href="http://www.formula1turkey.epizy.com">http://www.formula1turkey.epizy.com</a></li>
