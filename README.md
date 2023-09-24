@@ -43,4 +43,3 @@
 </p>
 
 
-![snake gif](https://github.com/epbalaban01/epbalaban01/blob/output/github-contribution-grid-snake.gif)
