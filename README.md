@@ -41,3 +41,6 @@
   </a>&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=epbalaban01&color=blueviolet&label=Profile+Views" >
 </p>
+
+
+![snake gif](https://github.com/epbalaban01/epbalaban01/blob/output/github-contribution-grid-snake.gif)
