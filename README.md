@@ -43,3 +43,147 @@
 </p>
 
 
+
+---
+
+<h1 align="center">My Programming, WakaTime, Github and Youtube Stats</h1>
+
+ <details> 
+<summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
+ <br>
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 0 Contributions in the Year 2022
+ > 
+> 📦 94.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 55 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    44 commits     ████████░░░░░░░░░░░░░░░░░   34.65% 
+🌆 Daytime    65 commits     ████████████░░░░░░░░░░░░░   51.18% 
+🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
+Tuesday      34 commits     ██████░░░░░░░░░░░░░░░░░░░   26.77% 
+Wednesday    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
+Thursday     28 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05% 
+Friday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
+Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
+Sunday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               41 repos            █████████████████████░░░░   83.67% 
+CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/epbalaban01/epbalaban01/master/charts/bar_graph.png) 
+
+
+ Last Updated on 09/11/2022 00:50:19 UTC
+<!--END_SECTION:waka-->
+
+</details>
+
+<details>
+  <summary> 
+  <b>:zap: WakaTime Stats <img align="left" alt="Wakatime Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/wakatime.svg" /> :zap:</b>: </summary>
+<br />
+
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@epbalaban01' 
+align = left/>
+
+<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@epbalaban01&theme=dark&layout=compact'
+align = left/>
+
+</details>
+
+<details>
+  <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: GitHub Stats :zap:</b>: </summary>
+<br />
+<div align="center">
+
+<img src='https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github_dark/0-profile-details.svg'
+align = "left" />
+
+<img src ='https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github/1-repos-per-language.svg' />
+
+<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github/2-most-commit-language.svg' />
+
+<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/nord_dark/3-stats.svg' />
+
+<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/nord_dark/4-productive-time.svg' />
+
+<img src='https://github-readme-stats.vercel.app/api?username=epbalaban01&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
+align="left" />
+
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=epbalaban01&theme=merko&langs_count=5&border_color=2e4058' />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=epbalaban01&theme=gruvbox&row=1&column=7)](https://github.com/epbalaban01)
+
+[![](https://github-readme-streak-stats.herokuapp.com/?user=epbalaban01&theme=dark)](https://github.com/epbalaban01)
+
+<img src="https://activity-graph.herokuapp.com/graph?username=CodingAce123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+
+</div>
+</details>
+
+<details>
+  <summary> <img align="left" alt="Github Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/github.svg" /> <b>:zap: Recent GitHub Activity :zap:</b>: </summary> 
+
+  <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/CodingAce123/CodingAce123/pull/1) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
+2. 🎉 Merged PR [#2](https://github.com/CodingAce123/CodingAce123/pull/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
+3. 🗣 Commented on [#2](https://github.com/CodingAce123/CodingAce123/issues/2) in [CodingAce123/CodingAce123](https://github.com/CodingAce123/CodingAce123)
+4. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
+5. 🗣 Commented on [#1](https://github.com/Educational-Websites/Contributors/issues/1) in [Educational-Websites/Contributors](https://github.com/Educational-Websites/Contributors)
+  <!--END_SECTION:activity-->
+
+</details>
+
