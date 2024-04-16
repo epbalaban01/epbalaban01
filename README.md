@@ -48,7 +48,7 @@
 
 ---
 
-<h1 align="center">My Programming, WakaTime, Github and Youtube Stats</h1>
+<h1 align="center">Benim Programım, Zamanım, Github İstatistikler</h1>
 
  <details> 
 <summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
