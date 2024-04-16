@@ -128,23 +128,11 @@ HTML                     3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/epbalaban01/epbalaban01/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 00:50:19 UTC
+ Son Güncelleme tarihi: 16/04/2023 12:00:20
 <!--END_SECTION:waka-->
 
 </details>
 
-<details>
-  <summary> 
-  <b>:zap: WakaTime Stats <img align="left" alt="Wakatime Logo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.11.0/icons/wakatime.svg" /> :zap:</b>: </summary>
-<br />
-
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@epbalaban01' 
-align = left/>
-
-<img src='https://github-readme-stats.vercel.app/api/wakatime?username=@epbalaban01&theme=dark&layout=compact'
-align = left/>
-
-</details>
 
 
 <details>
