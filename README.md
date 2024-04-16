@@ -59,57 +59,57 @@
 
 ![Lines of code](https://img.shields.io/badge/Merhaba_D%C3%BCnyadan-9_Bin_Sat%C4%B1r_Kod_Yazd%C4%B1m-blue)
 
-**🐱 My GitHub Data** 
+**🐱 GitHub Verilerim** 
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 94.6 kB Used in GitHub's Storage 
+> 📦 GitHub Depolamasında 94,6 kB Kullanılıyor
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
+**Ben Erkenciyim🐤** 
 
 ```text
-🌞 Morning    44 commits     ████████░░░░░░░░░░░░░░░░░   34.65% 
-🌆 Daytime    65 commits     ████████████░░░░░░░░░░░░░   51.18% 
-🌃 Evening    18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌞 Gündüz    44 commits     ████████░░░░░░░░░░░░░░░░░   34.65% 
+🌆 Öğlen     65 commits     ████████████░░░░░░░░░░░░░   51.18% 
+🌃 Akşam     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+🌙 Gece      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **Cuma günü en üretkenim** 
 
 ```text
 Monday       22 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
 Tuesday      34 commits     ██████░░░░░░░░░░░░░░░░░░░   26.77% 
 Wednesday    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
 Thursday     28 commits     █████░░░░░░░░░░░░░░░░░░░░   22.05% 
-Friday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57% 
+Friday       34 commits     ██████░░░░░░░░░░░░░░░░░░░   26.77% 
 Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.15% 
 Sunday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Bu Hafta Zamanımı Harcadım** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
+⌚︎ Time Zone: Asia/Turkey
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+💬 Programlama dilleri:
+Bu Hafta Takip Edilen Etkinlik Yok
 
-🔥 Editors: 
-No Activity Tracked This Week
+🔥 Editör: 
+Bu Hafta Takip Edilen Etkinlik Yok
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+🐱‍💻 Projeler: 
+Bu Hafta Takip Edilen Etkinlik Yok
 
-💻 Operating System: 
-No Activity Tracked This Week
+💻 İşletim Sistemi: 
+Bu Hafta Takip Edilen Etkinlik Yok
 
 ```
 
