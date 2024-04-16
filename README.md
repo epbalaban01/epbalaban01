@@ -51,13 +51,13 @@
 <h1 align="center">Benim Programım, Zamanım, Github İstatistikler</h1>
 
  <details> 
-<summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programming Stats :zap:</b>: </summary>
+<summary> <img align="left" alt="Laptop Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Computer.svg"/> <b>:zap: Programlama İstatistikleri :zap:</b>: </summary>
  <br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2059%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/Merhaba_D%C3%BCnyadan-9_Bin_Sat%C4%B1r_Kod_Yazd%C4%B1m-blue)
 
 **🐱 My GitHub Data** 
 
