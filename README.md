@@ -149,16 +149,16 @@ align = left/>
 <br />
 <div align="center">
 
-<img src='https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github_dark/0-profile-details.svg'
+<img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=epbalaban01&theme=github_dark'
 align = "left" />
 
-<img src ='https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github/1-repos-per-language.svg' />
+<img src ='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=epbalaban01&theme=github_dark' />
 
-<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/github/2-most-commit-language.svg' />
+<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=epbalaban01&theme=github_dark' />
 
-<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/nord_dark/3-stats.svg' />
+<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/stats?username=epbalaban01&theme=github_dark' />
 
-<img src = 'https://raw.githubusercontent.com/CodingAce123/CodingAce123/master/profile-summary-card-output/nord_dark/4-productive-time.svg' />
+<img src = 'http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=epbalaban01&theme=github_dark&utcOffset=8' />
 
 <img src='https://github-readme-stats.vercel.app/api?username=epbalaban01&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
 align="left" />
