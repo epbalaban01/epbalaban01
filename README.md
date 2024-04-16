@@ -160,7 +160,7 @@ align = "left" />
 
 <img src = 'http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=epbalaban01&theme=github_dark&utcOffset=8' />
 
-<img src='https://github-readme-stats.vercel.app/api?username=epbalaban01&show_icons=true&theme=radical&count_private=true&border_color=2e4058&line_height=40'  
+<img src='https://github-readme-stats.vercel.app/api?username=epbalaban01&show_icons=true&theme=radical'  
 align="left" />
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=epbalaban01&theme=merko&langs_count=5&border_color=2e4058' />
