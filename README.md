@@ -169,7 +169,7 @@ align="left" />
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=epbalaban01&theme=dark)](https://github.com/epbalaban01)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=CodingAce123&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+<img src="https://activity-graph.herokuapp.com/graph?username=epbalaban01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
 </details>
