@@ -61,15 +61,15 @@
 
 **🐱 GitHub Verilerim** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 0 2023 Yılı Katkıları
  > 
 > 📦 GitHub Depolamasında 94,6 kB Kullanılıyor
  > 
-> 🚫 Not Opted to Hire
+> 🚫 İşe Almayı Seçmedim
  > 
-> 📜 52 Public Repositories 
+> 📜 52 Halka Açık Proje
  > 
-> 🔑 1 Private Repository 
+> 🔑 1 Gizli Proje
  > 
 **Ben Erkenciyim🐤** 
 
@@ -136,7 +136,7 @@ HTML                      3 repo              ███████████�
 <div align="center">
 
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=epbalaban01&theme=github_dark'
-align = "left" />
+align = "center" />
 
 <img src ='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=epbalaban01&theme=github_dark' />
 
@@ -147,7 +147,7 @@ align = "left" />
 <img src = 'http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=epbalaban01&theme=github_dark&utcOffset=8' />
 
 <img src='https://github-readme-stats.vercel.app/api?username=epbalaban01&show_icons=true&theme=radical'  
-align="left" />
+align="" />
 
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=epbalaban01&theme=merko&langs_count=5&border_color=2e4058' />
 
@@ -155,7 +155,6 @@ align="left" />
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=epbalaban01&theme=dark)](https://github.com/epbalaban01)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=epbalaban01&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
 </details>
