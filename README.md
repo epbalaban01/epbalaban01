@@ -113,20 +113,15 @@ Bu Hafta Takip Edilen Etkinlik Yok
 
 ```
 
-**I Mostly Code in JavaScript** 
+**Çoğunlukla C# Kodluyorum** 
 
 ```text
-JavaScript               41 repos            █████████████████████░░░░   83.67% 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+C#                        10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   4.45% 
+Visual Basic .NET         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
+Javascript                13 repos            ███████░░░░░░░░░░░░░░░░░░   18.56%
+HTML                      3 repo              ███████████░░░░░░░░░░░░░░   37.30%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/epbalaban01/epbalaban01/master/charts/bar_graph.png) 
-
 
  Son Güncelleme tarihi: 16/04/2023 12:00:20
 <!--END_SECTION:waka-->
