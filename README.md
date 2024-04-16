@@ -35,10 +35,10 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/epbalaban01/" rel="nofollow">
 <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.instagram.com/epbalaban01/" rel="nofollow">
    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white">       
-  </a>&nbsp;&nbsp;
+  </a>
 <img src="https://komarev.com/ghpvc/?username=epbalaban01&color=blueviolet&label=Profile+Views" >
 </p>
 
