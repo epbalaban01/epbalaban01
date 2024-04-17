@@ -1,5 +1,5 @@
 ### Merhaba Ben Eyüp Can ✨ 
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif"><img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width:68%;"></a></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://ibb.co/K9BtBnq"><img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" style="max-width:68%;"></a></p>
 
 <ul>
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> Afyon Kocatepe Üniversitesi'nden mezunum.</li>
