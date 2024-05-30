@@ -13,7 +13,7 @@
   :globe_with_meridians:</g-emoji> Web Site: <a href="http://www.formula1turkey.epizy.com">http://www.formula1turkey.epizy.com</a></li>
  
  <h3 align='left'>
-  💻 Sistem Özellikleri<br/><br/>
+  💻 Sistem Özellikleri 💻<br/><br/>
 
   [![Windows 10](https://img.shields.io/badge/Windows%2010-%230078D6.svg?&style=flat-square&logo=windows&logoColor=white)](https://github.com/epbalaban01)
   [![Intel Core i7](https://img.shields.io/badge/Intel-Core%20i7%2013th%20%20Gen-%230071C5.svg?&style=flat-square&logo=intel&logoColor=white)](https://github.com/epbalaban01)
