@@ -22,7 +22,7 @@
 </h3>
 
 
-### ⚙️ &nbsp;GitHub Analizi
+### ⚙️ GitHub Analizi ⚙️
 
 <p align="center">
 <a href="https://github.com/epbalaban01">
